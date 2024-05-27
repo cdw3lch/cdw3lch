@@ -3,6 +3,10 @@
 -  I currently reside in San Diego 🇺🇸, but before that was a secondary maths teacher living in NZ 🇳🇿
 -  Before that I was teaching 11-18 year olds maths in the UK 🇬🇧 where I'm originally from.
 
+#  Now I'm learning to become a smart contract auditor!
+
+ ### From Teacher to Auditor
+
 -  When I was first introduced to Bitcoin and the concept of blockchain technology it was incredibly exciting; I conceptualised the Bitcoin blockchain as an open ledger that we can all see, a great big book of decentralised irrefutable accounting.
   I enjoyed explaining the evolution of money to students in my classes, they enjoyed my passsion and the distraction from the intended study task.
 
