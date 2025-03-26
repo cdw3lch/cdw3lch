@@ -17,13 +17,18 @@ In 2025, I’m fully immersed in a career pivot that includes:
 
 ### 📚 A Bit About Me
 
-I’ve spent over a decade in the classroom teaching math and mentoring students — and now I’m channeling that experience into designing learning that’s modern, practical, and empowering.
+I’ve spent over a decade teaching high school math and mentoring students — experience that now fuels my work designing modern, engaging, and accessible learning.
 
-- 🌍 I’m originally from the **UK**, where my teaching journey began, and have also lived and worked in **South Korea**, **New Zealand**, and now the **United States**  
-- 👶 I recently became a first-time dad, and becoming a parent has given me an even deeper appreciation for meaningful, inclusive education  
-- 🎓 I hold degrees in **Economics** and **Mathematics**  
-- ✅ I’m certified in **UX Design**, **Agile/Scrum**, and **Blockchain Development**, with a growing portfolio of work in progress  
-- 🤝 I’m passionate about connecting across cultures and creating accessible learning experiences that meet people where they are  
+- 🌍 Originally from the **UK**, I’ve lived and taught in **South Korea**, **New Zealand**, and now the **USA**  
+- 🥋 I’m a **black belt in Judo** — while I no longer compete, the discipline and focus continue to shape how I approach learning and growth  
+- 🏉 I volunteered as a coach with the [**San Diego Barracudas**](https://www.sdbarracudas.com/) and am currently looking to connect with a Seattle-based rugby club
+- 👶 Becoming a new dad has deepened my appreciation for inclusive, impactful education that meets people where they are  
+- 🎓 I hold degrees in **Economics** and **Mathematics**, and certifications in **UX Design**, **Agile/Scrum**, and **Blockchain Development**  
+- 🤝 I thrive on cross-cultural collaboration and building learning environments that help people feel confident in complex topics  
+
+At heart, I’m always looking for better ways to support growth, spark curiosity, and make learning meaningful.
+
+
 
 ---
 
