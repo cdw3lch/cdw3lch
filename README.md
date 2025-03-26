@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Christopher Welch
+# 👋 Hey there, I’m Christopher.
 
 I’m a former high school math teacher turning my lifelong passion for learning into a new career in **instructional design** and **emerging tech education**. I'm especially excited about making **blockchain and EdTech more accessible** for learners of all backgrounds — blending technical tools with clear, inclusive design to help people build confidence in complex topics.
 
@@ -19,9 +19,7 @@ In 2025, I’m fully immersed in a career pivot that includes:
 
 I’ve spent over a decade teaching high school math and mentoring students — experience that now fuels my work designing modern, engaging, and accessible learning.
 
-- 🌍 Originally from the **UK**, I’ve lived and taught in **South Korea**, **New Zealand**, and now the **USA**  
-- 🥋 I’m a **black belt in Judo** — while I no longer compete, the discipline and focus continue to shape how I approach learning and growth  
-- 🏉 I volunteered as a coach with the [**San Diego Barracudas**](https://www.sdbarracudas.com/) and am currently looking to connect with a Seattle-based rugby club
+- 🌍 Originally from the **UK**, I’ve also lived and taught in **South Korea**, **New Zealand**, and now the **USA**  
 - 👶 Becoming a new dad has deepened my appreciation for inclusive, impactful education that meets people where they are  
 - 🎓 I hold degrees in **Economics** and **Mathematics**, and certifications in **UX Design**, **Agile/Scrum**, and **Blockchain Development**  
 - 🤝 I thrive on cross-cultural collaboration and building learning environments that help people feel confident in complex topics  
