@@ -8,8 +8,8 @@ I’m a former high school math teacher turning my lifelong passion for learning
 
 In 2025, I’m fully immersed in a career pivot that includes:
 
-- 🎓 **IDOL Academy** (April–July): Hands-on training, mentorship, and real-world portfolio projects in instructional design  
-- 🧠 Starting a **Master’s in Educational Technology & Instructional Design** at WGU after IDOL  
+- 🎓 [**IDOL Academy**](https://www.idolcourses.com/academy) (April–July): Hands-on training, mentorship, and real-world portfolio projects in instructional design  
+- 🧠 Starting a [**Master’s in Educational Technology & Instructional Design**](https://www.wgu.edu/online-teaching-degrees/education-technology-instructional-design-masters.html) in August  
 - 🔐 Deepening my expertise in **blockchain**, **smart contract security**, and **DeFi education**  
 - 🛠️ Building with tools like Canvas LMS, Storyline, Figma, Solidity, and React to create high-impact learning solutions  
 
