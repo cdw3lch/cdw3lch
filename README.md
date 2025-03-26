@@ -19,8 +19,8 @@ In 2025, I’m fully immersed in a career pivot that includes:
 
 I’ve spent over a decade in the classroom teaching math and mentoring students — and now I’m channeling that experience into designing learning that’s modern, practical, and empowering.
 
-- 🌍 I’m originally from the **UK** and have lived and worked in **South Korea**, **New Zealand**, and now the **United States**  
-- 👶 I’m a first-time dad, and becoming a parent has given me an even deeper appreciation for meaningful, inclusive education  
+- 🌍 I’m originally from the **UK**, where my teaching journey began, and have also lived and worked in **South Korea**, **New Zealand**, and now the **United States**  
+- 👶 I recently became a first-time dad, and becoming a parent has given me an even deeper appreciation for meaningful, inclusive education  
 - 🎓 I hold degrees in **Economics** and **Mathematics**  
 - ✅ I’m certified in **UX Design**, **Agile/Scrum**, and **Blockchain Development**, with a growing portfolio of work in progress  
 - 🤝 I’m passionate about connecting across cultures and creating accessible learning experiences that meet people where they are  
