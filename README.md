@@ -1,6 +1,10 @@
 # 👋 Hey there, I’m Christopher.
 
-I’m a former high school math teacher turning my lifelong passion for learning into a new career in **instructional design** and **emerging tech education**. I'm especially excited about making **blockchain and EdTech more accessible** for learners of all backgrounds — blending technical tools with clear, inclusive design to help people build confidence in complex topics.
+## About Me
+
+I'm a former high school math teacher transitioning into **instructional design** and **emerging tech education**, with a focus on **Web3, DeFi, smart contracts**, and **blockchain-based capital markets**. I'm passionate about making these technologies more approachable, understandable, and actionable — especially for new users and teams navigating the space.
+
+By combining my background in education with UX principles and instructional design best practices, I help translate complex systems into engaging learning experiences that drive adoption, retention, and confidence across diverse audiences.
 
 ---
 
