@@ -2,54 +2,92 @@
 
 ## About Me
 
-I'm a former high school math teacher transitioning into **instructional design** and **emerging tech education**, with a focus on **Web3, DeFi, smart contracts**, and **blockchain-based capital markets**. I'm passionate about making these technologies more approachable, understandable, and actionable — especially for new users and teams navigating the space.
+I’m an instructional designer with an M.Ed. in Education Technology and Instructional Design, a background in economics and advanced mathematics, and over a decade of experience as a UK-trained secondary mathematics educator.
 
-By combining my background in education with UX principles and instructional design best practices, I help translate complex systems into engaging learning experiences that drive adoption, retention, and confidence across diverse audiences.
+I design learning experiences for complex subjects — especially mathematics, technical learning, fintech, blockchain, DeFi, smart contracts, and emerging technology. My core strength is turning difficult or unfamiliar material into clear learning paths, usable instructional materials, and practical assessments.
 
----
-
-### 🎯 What I’m Focused On
-
-In 2025, I’m fully immersed in a career pivot that includes:
-
-- 🎓 [**IDOL Academy**](https://www.idolcourses.com/academy) (April–July): Hands-on training, mentorship, and real-world portfolio projects in instructional design  
-- 🧠 Starting a [**Master’s in Educational Technology & Instructional Design**](https://www.wgu.edu/online-teaching-degrees/education-technology-instructional-design-masters.html) in August  
-- 🔐 Deepening my expertise in **blockchain**, **smart contract security**, and **DeFi education**  
-- 🛠️ Building with tools like Canvas LMS, Storyline, Figma, Solidity, and React to create high-impact learning solutions  
+I’m continuing to deepen my blockchain and smart contract skill set, but my work is broader than one domain. I’m interested in technical education across software, fintech, data, AI tools, product education, customer education, and developer-adjacent learning.
 
 ---
 
-### 📚 A Bit About Me
+### ⚙️ What I Build
 
-I’ve spent over a decade teaching high school math and mentoring students — experience that now fuels my work designing modern, engaging, and accessible learning.
-
-- 🌍 Originally from the **UK**, I’ve also lived and taught in **South Korea**, **New Zealand**, and now the **USA**  
-- 👶 Becoming a new dad has deepened my appreciation for inclusive, impactful education that meets people where they are  
-- 🎓 I hold degrees in **Economics** and **Mathematics**, and certifications in **UX Design**, **Agile/Scrum**, and **Blockchain Development**  
-- 🤝 I thrive on cross-cultural collaboration and building learning environments that help people feel confident in complex topics  
-
-At heart, I’m always looking for better ways to support growth, spark curiosity, and make learning meaningful.
-
-
+I create instructional materials and learning assets such as:
+* eLearning modules and course prototypes
+* Technical learning paths
+* Curriculum maps and lesson structures
+* LMS-based course layouts
+* Learner guides, explainers, and job aids
+* Knowledge checks, assessments, and practice activities
+* Mathematics and technical concept breakdowns
+* Blockchain, DeFi, smart contract, fintech, and capital markets learning resources
+* Accessible, inclusive, learner-centered instructional materials
 
 ---
 
-### 🛠️ Languages & Tools
+### 📚 Capstone, Graduate Projects & Portfolio Work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canvas LMS](https://img.shields.io/badge/Canvas%20LMS-EA2B2E?style=for-the-badge)
+My M.Ed. capstone and specialized graduate projects focused on blockchain-related learning design, including beginner-friendly education around blockchain fundamentals, Web3 wallets, decentralized finance, and related technical concepts.
+
+These projects focused on a practical instructional design challenge: helping adult beginner learners understand abstract technical systems without overwhelming them with jargon.
+
+Project themes included:
+* Designing self-paced eLearning for adult learners
+* Scaffolding blockchain and DeFi concepts for beginners
+* Translating technical language into plain-language learning materials
+* Creating knowledge checks tied to clear learning objectives
+* Designing with accessibility, inclusion, and learner variability in mind
+  
+I’m also wrapping up applied portfolio development through [**IDOL Academy**](https://www.idolcourses.com/academy), with a focus on practical eLearning buildout, LMS course design, and portfolio-ready instructional design samples. This work is flexible, and I’m available now for remote client, contract, and project-based work.
+
+---
+
+### 🧪 Instructional Design Approach
+
+My work is grounded in clear objectives, structured progression, accessibility, inclusion, and practical application.
+
+I focus on:
+* Breaking complex systems into understandable steps
+* Designing for learners with different levels of prior knowledge
+* Creating assessments that measure real understanding
+* Using examples, scenarios, and practice to support transfer
+* Making technical content accessible without oversimplifying it
+* Reducing unnecessary friction for new learners
+
+Before moving into instructional design, I spent more than a decade teaching secondary mathematics across the UK and New Zealand. That experience shaped how I approach technical learning: start with the learner, clarify the goal, build from what they already know, and support confident application.
+
+---
+
+### 🛠️ Tools & Methods
+
+**Instructional Design:** ADDIE, SAM, learning objectives, curriculum mapping, assessment design 
+<br>**eLearning & LMS:** Canvas LMS, course design, learner guides, multimedia learning, accessibility 
+<br>**Accessibility & Inclusion:** inclusive design, clear structure, plain-language explanations, learner variability 
+<br>**Technical Learning:** mathematics, blockchain, DeFi, smart contracts, fintech, capital markets, emerging technology 
+<br>**Design & Documentation:** Figma, Markdown, GitHub, Notion, structured documentation 
+<br>**Development Exposure:** basic JavaScript, Solidity, React, Git workflows
+
+---
+
+### 🎯 Current Focus & Availability
+
+I’m building portfolio projects that connect instructional design, eLearning, accessibility, and technical education.
+I’m open to remote instructional design, learning experience design, curriculum development, eLearning, and technical learning roles.
+
+I’m also open to selective, well-scoped contract or project-based work involving:
+* Curriculum design
+* LMS course development
+* Technical learning content
+* Mathematics education
+* Blockchain or fintech education
+* eLearning buildout
+* Assessment and learner guide development
 
 ---
 
 ### 🤝 Let’s Connect
 
-- 🧾 [LinkedIn](https://www.linkedin.com/in/christopher-d-welch) – follow along as I grow in blockchain, EdTech, and instructional design  
-- 🌐 Portfolio site launching soon.
+- 🧾 [LinkedIn](https://www.linkedin.com/in/christopher-d-welch)
 
 ---
 
