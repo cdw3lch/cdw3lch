@@ -1,94 +1,89 @@
-# 👋 Hey there, I’m Christopher.
+# Christopher Welch
 
-## About Me
+**Mathematics curriculum & learning designer**
 
-I’m an instructional designer with an M.Ed. in Education Technology and Instructional Design, a background in economics and advanced mathematics, and over a decade of experience as a UK-trained secondary mathematics educator.
+I bring together **11+ years of secondary mathematics teaching**, **13 years of external examining for Pearson Edexcel IGCSE Further Pure Mathematics**, and an **M.Ed. in Education Technology & Instructional Design**.
 
-I design learning experiences for complex subjects — especially mathematics, technical learning, fintech, blockchain, DeFi, smart contracts, and emerging technology. My core strength is turning difficult or unfamiliar material into clear learning paths, usable instructional materials, and practical assessments.
-
-I’m continuing to deepen my blockchain and smart contract skill set, but my work is broader than one domain. I’m interested in technical education across software, fintech, data, AI tools, product education, customer education, and developer-adjacent learning.
+I build accessible, interactive mathematics learning that starts from what a learner already knows and lets the formal result emerge from their own reasoning.
 
 ---
 
-### ⚙️ What I Build
+## ▶ Portfolio — Interactive Mathematics & Learning Design
 
-I create instructional materials and learning assets such as:
-* eLearning modules and course prototypes
-* Technical learning paths
-* Curriculum maps and lesson structures
-* LMS-based course layouts
-* Learner guides, explainers, and job aids
-* Knowledge checks, assessments, and practice activities
-* Mathematics and technical concept breakdowns
-* Blockchain, DeFi, smart contract, fintech, and capital markets learning resources
-* Accessible, inclusive, learner-centered instructional materials
+### [cdw3lch.github.io/learning-design-samples](https://cdw3lch.github.io/learning-design-samples/)
 
----
+Live case studies and interactive explainers you can explore in the browser:
 
-### 📚 Capstone, Graduate Projects & Portfolio Work
+- [**Designing an Online Calculus Skill**](https://cdw3lch.github.io/learning-design-samples/calculus-skill-case-study/)  
+  A production-oriented skill design built around the derivative from first principles, including item progression, misconception-mapped distractors, feedback, accessibility, validation, and handoff considerations.
 
-My M.Ed. capstone and specialized graduate projects focused on blockchain-related learning design, including beginner-friendly education around blockchain fundamentals, Web3 wallets, decentralized finance, and related technical concepts.
+- [**Reasoning-Aware Practice**](https://cdw3lch.github.io/learning-design-samples/reasoning-aware-practice/)  
+  Three working prototypes that collect better evidence about where a learner’s mathematical reasoning may have broken down, rather than only marking the final answer right or wrong.
 
-These projects focused on a practical instructional design challenge: helping adult beginner learners understand abstract technical systems without overwhelming them with jargon.
+- [**From Arrays to Factoring**](https://cdw3lch.github.io/learning-design-samples/from-arrays-to-factoring/)  
+  A vertical-articulation audit tracing the distributive property from elementary arrays through Algebra 1 factoring.
 
-Project themes included:
-* Designing self-paced eLearning for adult learners
-* Scaffolding blockchain and DeFi concepts for beginners
-* Translating technical language into plain-language learning materials
-* Creating knowledge checks tied to clear learning objectives
-* Designing with accessibility, inclusion, and learner variability in mind
-  
-I’m also wrapping up applied portfolio development through [**IDOL Academy**](https://www.idolcourses.com/academy), with a focus on practical eLearning buildout, LMS course design, and portfolio-ready instructional design samples. This work is flexible, and I’m available now for remote client, contract, and project-based work.
+- [**One Learner, Three Systems**](https://cdw3lch.github.io/learning-design-samples/one-learner-three-systems/)  
+  A cross-system curriculum prototype mapping one learner’s proportional-reasoning pathway across the United States, England, and New Zealand.
+
+- [**Rugby League 101**](https://cdw3lch.github.io/learning-design-samples/barracudas-case-study/)  
+  A learner-research-driven onboarding design for the San Diego Barracudas Rugby League club.
+
+- [**Getting Started with Web3**](https://cdw3lch.github.io/learning-design-samples/web3-course/)  
+  A self-paced introductory course developed as my M.Ed. capstone for learners with little or no prior blockchain experience.
+
+- [**Interactive Mathematics Explainers**](https://cdw3lch.github.io/learning-design-samples/#interactives)  
+  Browser-based visual explanations covering completing the square, signed-number multiplication, the derivative from first principles, and the sum of the first *n* odd numbers.
 
 ---
 
-### 🧪 Instructional Design Approach
+## What I Do
 
-My work is grounded in clear objectives, structured progression, accessibility, inclusion, and practical application.
+- Mathematics curriculum and learning-progression design
+- Assessment and item development
+- Misconception analysis and diagnostic feedback
+- Interactive mathematics explanations and prototypes
+- Standards alignment and vertical-articulation analysis
+- Accessible and inclusive digital learning design
+- LMS-based course and learning-experience development
+- Technical and emerging-technology education
 
-I focus on:
-* Breaking complex systems into understandable steps
-* Designing for learners with different levels of prior knowledge
-* Creating assessments that measure real understanding
-* Using examples, scenarios, and practice to support transfer
-* Making technical content accessible without oversimplifying it
-* Reducing unnecessary friction for new learners
-
-Before moving into instructional design, I spent more than a decade teaching secondary mathematics across the UK and New Zealand. That experience shaped how I approach technical learning: start with the learner, clarify the goal, build from what they already know, and support confident application.
-
----
-
-### 🛠️ Tools & Methods
-
-**Instructional Design:** ADDIE, SAM, learning objectives, curriculum mapping, assessment design 
-<br>**eLearning & LMS:** Canvas LMS, course design, learner guides, multimedia learning, accessibility 
-<br>**Accessibility & Inclusion:** inclusive design, clear structure, plain-language explanations, learner variability 
-<br>**Technical Learning:** mathematics, blockchain, DeFi, smart contracts, fintech, capital markets, emerging technology 
-<br>**Design & Documentation:** Figma, Markdown, GitHub, Notion, structured documentation 
-<br>**Development Exposure:** basic JavaScript, Solidity, React, Git workflows
+I am especially interested in work that requires both **subject-matter judgment** and **learning-design execution**: deciding what should be taught, in what order, through which representations, and with what evidence of understanding.
 
 ---
 
-### 🎯 Current Focus & Availability
+## Background
 
-I’m building portfolio projects that connect instructional design, eLearning, accessibility, and technical education.
-I’m open to remote instructional design, learning experience design, curriculum development, eLearning, and technical learning roles.
-
-I’m also open to selective, well-scoped contract or project-based work involving:
-* Curriculum design
-* LMS course development
-* Technical learning content
-* Mathematics education
-* Blockchain or fintech education
-* eLearning buildout
-* Assessment and learner guide development
+- **M.Ed.**, Education Technology & Instructional Design
+- **PGCE**, Secondary Mathematics with Qualified Teacher Status
+- **Subject Knowledge Enhancement**, Mathematics
+- **B.Sc. (Hons)**, Economics
+- **11+ years** teaching secondary mathematics in the United Kingdom and New Zealand
+- **13 years** as an external examiner for Pearson Edexcel IGCSE Further Pure Mathematics
+- **ORCID**: [0009-0002-0941-2098](https://orcid.org/0009-0002-0941-2098)
 
 ---
 
-### 🤝 Let’s Connect
+## Tools & Technologies
 
-- 🧾 [LinkedIn](https://www.linkedin.com/in/christopher-d-welch)
+### Learning design
+
+`Articulate Storyline` · `Rise` · `Canvas` · `Camtasia` · `Figma` · `LaTeX`
+
+### Web and prototyping
+
+`HTML` · `CSS` · `JavaScript` · `GitHub` · `GitHub Pages`
+
+### Areas of continued development
+
+`Blockchain` · `DeFi` · `Smart contracts` · `Emerging technologies`
+
+Mathematics and education are natural strengths, but I am comfortable learning unfamiliar technical subject matter and translating it into something other people can understand and use.
 
 ---
 
-> _"Technology should empower, not exclude."_
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-0969da?style=for-the-badge)](https://cdw3lch.github.io/learning-design-samples/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Welch-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christopher-d-welch/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0941--2098-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0941-2098)
