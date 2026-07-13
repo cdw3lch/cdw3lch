@@ -4,7 +4,7 @@
 
 I bring together **11+ years of secondary mathematics teaching**, **13 years of external examining for Pearson Edexcel IGCSE Further Pure Mathematics**, and an **M.Ed. in Education Technology & Instructional Design**.
 
-I build accessible, interactive mathematics learning that starts from what a learner already knows and lets the formal result emerge from their own reasoning.
+I design accessible mathematics learning experiences, assessments, and curriculum structures that make learner reasoning visible and complex ideas easier to understand.
 
 ---
 
