@@ -60,7 +60,6 @@ I am especially interested in work that requires both **subject-matter judgment*
 - **B.Sc. (Hons)**, Economics
 - **11+ years** teaching secondary mathematics in the United Kingdom and New Zealand
 - **13 years** as an external examiner for Pearson Edexcel IGCSE Further Pure Mathematics
-- **ORCID**: [0009-0002-0941-2098](https://orcid.org/0009-0002-0941-2098)
 
 ---
 
