@@ -81,7 +81,7 @@ The learning prototypes use HTML, CSS, vanilla JavaScript and SVG. Reasoning-Awa
 
 ### Technical project
 
-- [Flashloan](https://github.com/cdw3lch/Flashloan): an educational Solidity project using Balancer flash-loan callbacks and Moonwell lending on Base, with Hardhat tests. My contributions include scripts that calculate position returns and simulate withdrawals. The contracts are not audited.
+- Flashloan: an educational Solidity project using Balancer flash-loan callbacks and Moonwell lending on Base, with Hardhat tests. My contributions include scripts that calculate position returns and simulate withdrawals. The contracts are not audited.
 
 ### Areas of continued development
 
