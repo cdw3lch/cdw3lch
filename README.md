@@ -95,5 +95,6 @@ Mathematics and education are natural strengths, but I am comfortable learning u
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-0969da?style=for-the-badge)](https://cdw3lch.github.io/learning-design-samples/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Welch-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christopher-d-welch/)
+[![Substack](https://img.shields.io/badge/Substack-Sidequest%20Chris-702dff?style=for-the-badge&logo=substack&logoColor=white)](https://sidequestchris.substack.com/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0941--2098-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0941-2098)
 
