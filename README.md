@@ -63,7 +63,7 @@ I am especially interested in work that requires both **subject-matter judgment*
 - **Subject Knowledge Enhancement**, Mathematics
 - **B.Sc. (Hons)**, Economics
 - **11+ years** teaching secondary mathematics in the United Kingdom and New Zealand
-- **13 years** as an external examiner for Pearson Edexcel IGCSE Further Pure Mathematics
+- **External examiner, 2016 to 2024**, for Pearson Edexcel IGCSE Further Pure Mathematics (99.3% marking accuracy confirmed in the first monitored sample)
 
 ---
 
