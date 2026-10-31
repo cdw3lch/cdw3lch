@@ -2,7 +2,7 @@
 
 **Assessment & education product development | Curriculum & learning design**
 
-I bring together **11+ years of secondary mathematics teaching**, **13 years of external examining for Pearson Edexcel IGCSE Further Pure Mathematics**, and an **M.Ed. in Education Technology & Instructional Design**.
+I bring together **11+ years of secondary mathematics teaching**, **examining for Pearson Edexcel IGCSE Further Pure Mathematics from 2016 to 2024**, and an **M.Ed. in Education Technology & Instructional Design (June 2026)**.
 
 I apply that experience to education product development, translating learner needs into assessment specifications and working prototypes. My background includes designing and launching a senior-secondary mathematics course, delivering teacher workshops, and mentoring teachers across three schools.
 
